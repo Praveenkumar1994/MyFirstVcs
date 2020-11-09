@@ -1,5 +1,5 @@
 
-Demonstrating Git capabilities
+Demonstrating Git capabilities For Usage
 
 
 Todo: Need to add branching stratagies
